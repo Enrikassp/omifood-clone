@@ -518,7 +518,7 @@ main {
             rgba(235, 151, 78, 0.35),
             rgba(230, 125, 34, 0.35)
           ),
-          url("/assets/images/eating.jpg");
+          url("../assets/images/eating.jpg");
         background-repeat: no-repeat;
         background-size: cover;
       }
